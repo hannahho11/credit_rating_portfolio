@@ -1,2 +1,2 @@
 # credit_rating_portfolio
- Create stock portfolios based on credit ratings
+Create and backtest long-short portfolios based on credit ratings
